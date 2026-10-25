@@ -73,4 +73,3 @@ standards:
     source: https://www.w3.org/TR/prov-o/
     consumed_by:
       - semantica/provenance/manager.py
-      - semantica/provenance/schemas.py
